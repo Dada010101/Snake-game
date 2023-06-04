@@ -1,2 +1,2 @@
 # Snake-game
-Simple snake game Python
+Simple snake game Python. The game is played with arrows.
